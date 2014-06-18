@@ -15,5 +15,5 @@ Write a program that:
 ### How to run (using a terminal emulator!)
 
 1. Clone the repo to your local machine (or simply copy the file array_play.rb)
-2. Make the file executable
+2. Make the file executable `chmod 744 array_play.rb`
 3. ./array_play.rb
