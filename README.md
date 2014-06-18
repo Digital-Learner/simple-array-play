@@ -1,4 +1,4 @@
-playing-with-arrays
+simple-array-play
 ===================
 
 Simply playing with an array
